@@ -28,4 +28,8 @@ end
 def return_string_array(array)
   count = 0 
   while count < array.lengh do
-    
+    puts array
+    count += 1
+  end
+end
+
